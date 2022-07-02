@@ -29,6 +29,8 @@ Obs: Manipulação de dados e colunas.
 ## Observação 
 
 O Pbix só vai funcionar quem tiver instalado o software Microsoft Power BI no Sistema Operacional Windows, caso o usuário usar outro tipo de SO, 
-a ferramenta não vai funcionar. 
+a ferramenta não vai funcionar.
 
+## Visualização do Dashboard de Financiamento do ensino superior - Fies 2021
+https://www.youtube.com/watch?v=lQ6OLLzjx2A
 
