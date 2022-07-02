@@ -31,6 +31,4 @@ Obs: Manipulação de dados e colunas.
 O Pbix só vai funcionar quem tiver instalado o software Microsoft Power BI no Sistema Operacional Windows, caso o usuário usar outro tipo de SO, 
 a ferramenta não vai funcionar. 
 
-## Apresentação do Dashboards no Power BI - Mec - Fies 
-https://www.youtube.com/watch?v=CG-inIHlVCM&t=145s
 
